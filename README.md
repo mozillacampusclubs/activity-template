@@ -1,7 +1,7 @@
 
 ##WebVR Activity for Mozilla Campus Clubs program
 
-[Check the activity in this link](https://mozillacampusclubs.github.io/becomeVRRockstar/) and run it by doing the following steps:
+[Check the activity in this link](https://mozillacampusclubs.github.io/Build-a-Virtual-World/) and run it by doing the following steps:
 <ol>
 <li>Fork the activity’s repo</li>
 <li>Download the examples</li>
